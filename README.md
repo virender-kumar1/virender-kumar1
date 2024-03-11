@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Angular, JavaScript, TypeScript**
 
-- 📫 How to reach me **virenderk$194@gmail.com**
+- 📫 How to reach me **virenderk4194@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WPXRP5MMemzw197B4HCC13v_406Ny3p-/view?usp=sharing](https://drive.google.com/file/d/1WPXRP5MMemzw197B4HCC13v_406Ny3p-/view?usp=sharing)
 
